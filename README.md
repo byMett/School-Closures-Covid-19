@@ -65,13 +65,13 @@ It is as follows: “Children cannot afford another year of school disruption”
 
 ## Guide:
 
-You can reach to Datas ->
+You can reach to Datas -> https://github.com/byMett/School-Closures-Covid-19/tree/main/School-Closures-Data
 
-You can reach to Reports ->
+You can reach to Reports -> https://github.com/byMett/School-Closures-Covid-19/tree/main/Report
 
-You can reach to Videos ->
+You can reach to Video ->
 
-You can reach to Tables ->
+You can reach to Tables PDFs  -> https://github.com/byMett/School-Closures-Covid-19/tree/main/Tables%20PDFs
 
 <br /> <br />
 
