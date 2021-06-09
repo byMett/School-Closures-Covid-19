@@ -60,7 +60,7 @@ Unicef's statement is as follows:
 It is as follows: “Children cannot afford another year of school disruption”.
 
 
-<br /> <br /><br /> <br /> <br /> <br /> <br /><br /> <br /> <br />
+<br /> <br /><br /> <br /> <br /> <br /> <br />
 
 
 ## Guide:
