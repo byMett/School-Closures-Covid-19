@@ -69,7 +69,7 @@ You can reach to Datas -> https://github.com/byMett/School-Closures-Covid-19/tre
 
 You can reach to Reports -> https://github.com/byMett/School-Closures-Covid-19/tree/main/Report
 
-You can reach to Video ->
+You can reach to Video -> https://drive.google.com/file/d/16Mjd-Hv5kEohHHd2votGIUWfCBfLXxP4/view?usp=sharing
 
 You can reach to Tables PDFs  -> https://github.com/byMett/School-Closures-Covid-19/tree/main/Tables%20PDFs
 
