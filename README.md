@@ -76,7 +76,7 @@ You can reach to Tables PDFs  -> https://github.com/byMett/School-Closures-Covid
 <br /> <br />
 
 
-## KAYNAKÇA
+## References
 
 You can find the data here:
 
